@@ -1,0 +1,77 @@
+{
+  "timestamp": 1769960726058,
+  "name": "users",
+  "part": 1,
+  "parts": 1,
+  "list": [
+    {
+      "_id": "6947773d7ae7089a620c4d45",
+      "username": "可欣3",
+      "role": "user",
+      "permissions": {
+        "普通用户": true
+      },
+      "quota_remaining": 10,
+      "enabled": true,
+      "created_at": 1766291260709,
+      "updated_at": 1766291265773,
+      "last_login_at": 1766291265773,
+      "token_expire_at": 1766896065773
+    },
+    {
+      "_id": "694773fb816a3fc7984b7bd9",
+      "username": "可欣1",
+      "role": "user",
+      "quota_remaining": 10,
+      "enabled": true,
+      "created_at": 1766290427646,
+      "updated_at": 1766291772445,
+      "last_login_at": 1766291772445,
+      "token_expire_at": 1766896572445
+    },
+    {
+      "_id": "69457f713f1a47e81a637858",
+      "username": "admin",
+      "enabled": true,
+      "role": "admin",
+      "permissions": {
+        "agent": true,
+        "workflows": true
+      },
+      "quota_remaining": 2000,
+      "token_expire_at": 1770565303542,
+      "last_login_at": 1769960503542,
+      "updated_at": 1769960503542,
+      "status": "active"
+    },
+    {
+      "_id": "6945806e0d2b31666494ab23",
+      "username": "可欣",
+      "enabled": true,
+      "role": "user",
+      "permissions": {
+        "agent": true,
+        "workflows": true
+      },
+      "quota_remaining": 505,
+      "token_expire_at": 1770546734899,
+      "last_login_at": 1769941934899,
+      "updated_at": 1769941934899,
+      "status": "active"
+    },
+    {
+      "_id": "69458106eef9cbb12d0ab2bb",
+      "username": "user2",
+      "enabled": true,
+      "role": "user",
+      "permissions": {
+        "agent": true,
+        "workflows": true
+      },
+      "quota_remaining": 0,
+      "token_expire_at": 1766779581741,
+      "last_login_at": 1766174781741,
+      "updated_at": 1766174802688
+    }
+  ]
+}
