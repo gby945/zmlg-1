@@ -1,0 +1,18 @@
+{
+  "timestamp": 1769960698497,
+  "repo": "gby945/zmlg-1",
+  "branch": "main",
+  "baseDir": "backup/full_backup_1769960698497",
+  "counts": {
+    "workflows": 14,
+    "users": 5,
+    "payment_orders": 2,
+    "uploads": 134
+  },
+  "files": [
+    "backup/full_backup_1769960698497/workflows_part_001.json",
+    "backup/full_backup_1769960698497/users_part_001.json",
+    "backup/full_backup_1769960698497/payment_orders_part_001.json",
+    "backup/full_backup_1769960698497/uploads_part_001.json"
+  ]
+}
