@@ -1,0 +1,33 @@
+{
+  "timestamp": 1769960726742,
+  "name": "payment_orders",
+  "part": 1,
+  "parts": 1,
+  "list": [
+    {
+      "_id": "697d2870286f7ce011815c44",
+      "user_id": "6945806e0d2b31666494ab23",
+      "out_trade_no": "PAY1769810032827421",
+      "provider": "wxpay",
+      "amount": 100,
+      "points": 10,
+      "status": "PENDING",
+      "created_at": 1769810032827,
+      "ip": "127.0.0.1"
+    },
+    {
+      "_id": "695febfc6e5d2d32f89af677",
+      "user_id": "6945806e0d2b31666494ab23",
+      "out_trade_no": "PAY1767894012009629",
+      "provider": "wxpay",
+      "amount": 100,
+      "points": 10,
+      "status": "SUCCESS",
+      "created_at": 1767894012009,
+      "ip": "127.0.0.1",
+      "paid_at": 1767894069600,
+      "transaction_id": "4200003011202601092530573440",
+      "updated_by": "poll_check"
+    }
+  ]
+}
